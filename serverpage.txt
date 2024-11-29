@@ -1,0 +1,5 @@
+Getmapping("/get")
+public  Entity etValue(@pathvariable long id){
+return serv.getvalue;
+
+}
